@@ -1,0 +1,200 @@
+@font-face {
+    src: url(Gotham-Bold.woff);
+    font-family: gotham;
+}
+
+.welcome{
+    text-align: center;
+    position: absolute;
+    top: 179.5px;
+    left: 634px;
+    width: 172px;
+    height: 8.7px;
+    font-family: gotham;
+    font-weight: 400;
+    font-size: 11.5px;
+    line-height: 14.36px;
+    letter-spacing: 1em;
+    color: #808080;
+}
+
+h1{
+    text-align: center;
+    position: absolute;
+    width: 374px;
+    height: 29.8px;
+    left: 533px;
+    top: 200px;
+    font-family: gotham;
+    font-weight: 300;
+    font-size: 35px;
+    line-height: 47.85px;
+    letter-spacing: 0.6em;
+}
+
+.buttons{
+    text-align: center;
+    display: grid;
+}
+
+#continue{
+    margin: 11.2px;
+    border: 1px solid #000000;
+    position: absolute;
+    width: 409px;
+    height: 27.9px;
+    left: 500px;
+    top: 311.8px;
+    font-family: gotham;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 18px;
+    letter-spacing: 0.5em;
+    box-sizing: border-box;
+    border: 1px solid #000000;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 9px;
+}
+
+#continue:hover{
+    margin: 11.2px;
+    position: absolute;
+    width: 409px;
+    height: 27.9px;
+    left: 500px;
+    top: 311.8px;
+    font-family: gotham;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 18px;
+    letter-spacing: 0.5em;
+    box-sizing: border-box;
+    border: 1px solid #000000;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 9px;
+    background-color: #000000;
+    color: white;
+}
+
+#newgame{
+    margin: 11.2px;
+    border: 1px solid #000000;
+    position: absolute;
+    width: 409px;
+    height: 27.9px;
+    left: 500px;
+    top: 350.9px;
+    font-family: gotham;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 18px;
+    letter-spacing: 0.5em;
+    box-sizing: border-box;
+    border: 1px solid #000000;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 9px;
+}
+
+#newgame:hover{
+    margin: 11.2px;
+    border: 1px solid #000000;
+    position: absolute;
+    width: 409px;
+    height: 27.9px;
+    left: 500px;
+    top: 350.9px;
+    font-family: gotham;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 18px;
+    letter-spacing: 0.5em;
+    box-sizing: border-box;
+    border: 1px solid #000000;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 9px;
+    background-color: #000000;
+    color: white;
+}
+
+#settings{
+    margin: 11.2px;
+    border: 1px solid #000000;
+    position: absolute;
+    width: 409px;
+    height: 27.9px;
+    left: 500px;
+    top: 390px;
+    font-family: gotham;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 18px;
+    letter-spacing: 0.5em;
+    box-sizing: border-box;
+    border: 1px solid #000000;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 9px;
+}
+
+#settings:hover{
+    margin: 11.2px;
+    border: 1px solid #000000;
+    position: absolute;
+    width: 409px;
+    height: 27.9px;
+    left: 500px;
+    top: 390px;
+    font-family: gotham;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 18px;
+    letter-spacing: 0.5em;
+    box-sizing: border-box;
+    border: 1px solid #000000;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 9px;
+    background-color: #000000;
+    color: white;
+}
+
+#quit{
+    margin: 11.2px;
+    border: 1px solid #000000;
+    position: absolute;
+    width: 409px;
+    height: 27.9px;
+    left: 500px;
+    top: 429.2px;
+    font-family: gotham;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 18px;
+    letter-spacing: 0.5em;
+    box-sizing: border-box;
+    border: 1px solid #000000;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 9px;
+}
+
+#quit:hover{
+    margin: 11.2px;
+    border: 1px solid #000000;
+    position: absolute;
+    width: 409px;
+    height: 27.9px;
+    left: 500px;
+    top: 429.2px;
+    font-family: gotham;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 18px;
+    letter-spacing: 0.5em;
+    box-sizing: border-box;
+    border: 1px solid #000000;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 9px;
+    background-color: #000000;
+    color: white;
+}
+
+
+    
